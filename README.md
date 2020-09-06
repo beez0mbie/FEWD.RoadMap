@@ -7,7 +7,7 @@
 [Submit/Docs](https://submit.cs50.io/courses/1/)
 
 * Problem Set 0 -solved
-* Problem Set 1
+* Problem Set 1 -work
     * Hello
     * Mario
     * Cash/Credit
