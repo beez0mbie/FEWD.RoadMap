@@ -7,25 +7,6 @@
 [Submit/Docs](https://submit.cs50.io/courses/1/)
 [IDE](https://ide.cs50.io/beez0mbie/ide)
 
-* Problem Set 0 -solved
-* Problem Set 1 -work
-    * Hello
-    * Mario
-    * Cash/Credit
-* Problem Set 2
-    * Readability
-    * Caesar
-    * Substitution
-* Problem Set 3
-    * Pluraity
-    * Runoff
-    * Tiden
-* Problem set 4
-    * Filter
-    * Recover
-
-more...
-
 ## HTML/CSS (100hours)
 
 more...
